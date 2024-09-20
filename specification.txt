@@ -1,0 +1,17 @@
+-----Lists the 10 HTML tags and 5 CSS properties you’ve used,as well as a brief (one-sentence)
+-----description of how you chose to use JavaScript and Bootstrap.
+
+html tags: h2 div ol il h1 strong em u br h3 h4 a
+
+css selectors:
+-h1 h2 body to change that specific html tag,
+-class called .specified_text which aligns the text
+-a[href*=".html"] which only changes the properties in links that are .html
+-a:hover for all the hyperlinks they're changed to blue when you pass over them
+-#main-title which means that html tags with this ID have changed properties.
+
+Boostrap+javascript:
+For boostrap i basically used its margins options, i used the properties class="ms-1 me-4",
+they give you some margin in the left side and right side of the website.
+For javascript what I did is a button which is in every corner of the subindex, and when you
+click it, you're returned to the index.

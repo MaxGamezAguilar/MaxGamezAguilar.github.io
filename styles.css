@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    margin-top: 26px;
+}
+
+h2{
+    margin-top: 15px;
+    display: inline;
+}
+
+.justified-text {
+    text-align: justify;
+}
+
+ol {
+    font-size: 22px;
+}
+
+body {
+    background-color: #FFF8E7;
+}
+
+a[href*=".html"] {
+    color: red;
+    text-decoration: none;
+}
+
+a:hover {
+    color: green;
+    text-decoration: underline;
+}
+
+#main-title {
+    font-weight: bold;
+}
+
+.button {
+    float: right;
+    padding: 10px 25px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+.button:hover {
+    background-color: #0056b3;
+}
